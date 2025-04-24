@@ -1,0 +1,4 @@
+user_id,full_name,email,date_of_birth,phone_number,consent_given,created_at
+1,Alice Smith,alice@example.com,1990-01-15,123-456-7890,TRUE,2019-02-10
+2,Bob Jones,bob@example.com,1985-08-30,987-654-3210,FALSE,2017-06-01
+3,Carol Lee,carol@example.com,1992-11-20,456-789-0123,TRUE,2021-04-15

@@ -1,0 +1,4 @@
+purchase_id,user_id,product_name,amount,currency,purchase_date
+101,1,Noise-Cancelling Headphones,199.99,USD,2023-01-05
+102,2,Smart Watch,249.99,USD,2019-09-10
+103,3,Laptop Stand,49.99,USD,2024-03-22
